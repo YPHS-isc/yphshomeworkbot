@@ -4,6 +4,6 @@
 <img src="https://github.com/chenliTW/yphshomeworkbot/raw/master/pic/run.png" height="500"><br>
 <h2>使用教學：</h2><br>
 1.去跟Telegram的botfather申請token，然後把那個bot加到你要放的群組裡！<br>
-2.填入登入資訊，依序填入<br>
+2.填入登入資訊，由上到下依序填入學號(sid)·生份證(cid)·生日(bir)<br>
 <img src="https://github.com/chenliTW/yphshomeworkbot/raw/master/pic/setup.png" width="500">
 <br>
