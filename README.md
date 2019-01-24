@@ -4,3 +4,7 @@
 <img src="https://github.com/chenliTW/yphshomeworkbot/raw/master/pic/run.png" height="500">
 <br>
 <img src="https://github.com/chenliTW/yphshomeworkbot/raw/master/pic/setup.png" width="500">
+<br>
+##使用教學：
+###1.去跟Telegram的botfather申請token，然後把那個bot加到你要放的群組裡！
+
