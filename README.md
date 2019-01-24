@@ -8,4 +8,4 @@
 2.填入登入資訊，由上到下依序填入學號(sid),生份證(cid),生日(bir),機器人的token(bottoken1),與群組的chatid(chatid1)<br>
 <img src="https://github.com/chenliTW/yphshomeworkbot/raw/master/pic/setup.png" width="500">
 <br>
-3.
+3.設定crontab．
