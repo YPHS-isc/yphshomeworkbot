@@ -14,4 +14,3 @@
 3.設定crontab<br>
 ex.*/1 * * * * python3 /yphs.py<br>
 3.或著deploy on heroku<br>
-有問題請聯絡ab0897867564534231@gmail.com
