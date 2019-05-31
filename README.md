@@ -5,7 +5,6 @@
 <img src="https://github.com/chenliTW/yphshomeworkbot/raw/master/pic/run_line.png" height="500"><br>
 <h2>使用教學：</h2><br>
 1.(telegram)去跟Telegram的botfather申請token，然後把那個bot加到你要放的群組裡，並取的那個群組的chatid.<br>
-<a href="https://chenlitw.github.io/telegram-bot/2019/01/16/telegram-bot-hello-world.html" target="_blank" title="">不知道如何取得機器人token與chatid請參考這篇</a><br>
 1.(line)去line@申請bot並取得token，然後把那個bot加到你要放的群組裡，並取得那個群組的chatid.<br>
 有問題請聯絡ab0897867564534231@gmail.com
 <br>
